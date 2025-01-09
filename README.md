@@ -9,7 +9,9 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BpNmoweHBjNnFzMzF3dXJsa2NpcHBiNmpxYnV6cmdkenEwMzN4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" height="150"/>
+</div>
 
 ###
 
