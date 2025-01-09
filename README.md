@@ -47,8 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/piyushsupekar/piyushsupekar/output/snake.svg" alt="Snake animation" />
-
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushsupekar/piyushsupekar/output/github-snake-dark.svg" />
