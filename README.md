@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media.licdn.com/dms/image/v2/D4D03AQFqcQBWeL7G1Q/profile-displayphoto-shrink_400_400/B4DZOGI543HcAg-/0/1733122302642?e=1741824000&v=beta&t=l2cYoD5qz32ebcTxDSOKS0YdmCHVTipPnGaeemFFNOY"  />
+<iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ###
 
