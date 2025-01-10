@@ -40,9 +40,9 @@
 ###
 
 <div align="left">
-  <a href="mailto:piyushsupekar48@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/dnyaneshwar-supekar-b371b61b7/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://wa.me/9922450089" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
+  <a href="mailto:piyushsupekar48@gmail.com" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/dnyaneshwar-supekar-b371b61b7/" target="_blank"><img src="https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png" height="35" alt="linkedin logo"  /></a>
+  <a href="https://wa.me/9922450089" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" height="35" alt="whatsapp logo"  /></a>
 </div>
 
 ###
