@@ -39,9 +39,9 @@
 
 ###
 
-<div align="left">
+<div align="left" style="display:flex;gap:50px;">
   <a href="mailto:piyushsupekar48@gmail.com" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/dnyaneshwar-supekar-b371b61b7/" target="_blank"><img src="https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/dnyaneshwar-supekar-b371b61b7/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" height="35" alt="linkedin logo"  /></a>
   <a href="https://wa.me/9922450089" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png" height="35" alt="whatsapp logo"  /></a>
 </div>
 
